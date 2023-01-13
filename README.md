@@ -123,10 +123,10 @@ Execute the program
 </html>
 ```
 # OUPUT
-![OUTPUT](http://samyukthasreenivasan.student.saveetha.in:8000/static/images/sree.png?raw=true)
+![OUTPUT](./sree.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://samyukthasreenivasan.student.saveetha.in:8000/static/images/sys.png?raw=true)
+![HTML VALIDATOR](./sys.png)
 
 # RESULT
 Thus the program for creating slot timetable is successfully executed.
